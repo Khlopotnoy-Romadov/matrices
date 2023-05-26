@@ -1,4 +1,4 @@
-# matrices
+# Matrices
 
 ![image](https://github.com/DanyaNewSkater/matrices/assets/100216013/118f451d-1515-4f5e-aabd-d4a2fd10b147)
 
