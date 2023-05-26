@@ -12,9 +12,13 @@ It is a powerful module that allows you to:
 -multiply matrices
 
 -generate an identity matrix of every size
+
 -multiply matrix and number
+
 -generate random square/diagonal/symmetric matrix
+
 -transpose matrices
+
 -solve systems of linear equations with Gauss method
 
 ##How to install this module?
