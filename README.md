@@ -25,7 +25,7 @@ It is a powerful module that allows you to:
 ## How to install this module?
 To start working with a module, you have to install and build file setup.py through CMD.
 
-Exapmle of work our module:
+## Exapmle of work our module:
 
 ![image](https://github.com/Khlopotnoy-Romadov/matrices/assets/99768668/16c3f1bd-cf4a-45d6-b78b-c6761d6d70df)
 
